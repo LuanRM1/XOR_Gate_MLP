@@ -172,5 +172,6 @@ poetry.toml
 zero.py
 # LSP config files
 pyrightconfig.json
+vhs.vhs
 
 # End of https://www.toptal.com/developers/gitignore/api/python
